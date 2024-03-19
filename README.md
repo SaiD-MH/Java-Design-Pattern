@@ -54,7 +54,8 @@ The repository covers three categories of design patterns:
 10. Template Method
 11. Visitor
 
-Each design pattern is organized in its own directory within the repository.
+Each design pattern is organized in its own Package Category 
+``ex: src/BehaviourPatterns/memento``
 
 ## Languages
 
@@ -67,7 +68,7 @@ The examples are provided in the following programming languages:
 
 Clone the repository to your local machine using the following command:
 
-``git clone https://github.com/your-username/gof-design-patterns.git``
+``https://github.com/SaiD-MH/Java-Design-Pattern/tree/main``
 
 ## Contributing
 Contributions are welcome! If you'd like to contribute to this repository by adding new design patterns, improving existing examples, or fixing bugs, please follow these steps:
