@@ -73,12 +73,12 @@ Clone the repository to your local machine using the following command:
 ## Contributing
 Contributions are welcome! If you'd like to contribute to this repository by adding new design patterns, improving existing examples, or fixing bugs, please follow these steps:
 
-1.Fork the repository.
-2.Create a new branch (git checkout -b feature/your-feature).
-3.Make your changes.
-4.Commit your changes (git commit -am 'Add new pattern').
-5.Push to the branch (git push origin feature/your-feature).
-6.Create a new Pull Request.
+1. Fork the repository.
+2. Create a new branch (git checkout -b feature/your-feature).
+3. Make your changes.
+4. Commit your changes (git commit -am 'Add new pattern').
+5. Push to the branch (git push origin feature/your-feature).
+6. Create a new Pull Request.
 
 Please ensure that your code follows the repository's coding standards and includes appropriate documentation.
 
